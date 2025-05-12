@@ -10,3 +10,4 @@
 - chore: add a note about the defaults
 - chore: add a note about the defaults
 - fix: fix a small wording issue
+- chore: fix a small wording issue
